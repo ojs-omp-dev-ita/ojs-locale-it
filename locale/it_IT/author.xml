@@ -9,7 +9,8 @@
   * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
   *
   * Localization strings for the it_IT (Italiano) locale.
-  * Contributed by Andrea Marchitelli - CINECA.
+  * Contributed by Andrea Marchitelli - CINECA 2016.
+  * Contributed by Zeno Tajoli        - CINECA 2018.
   *
   -->
 
@@ -116,4 +117,5 @@
 	<message key="author.submit.mustEnterWaiverReason">Se stai chiedendo un esonero, devi indicarne il motivo.</message>
 	<message key="author.submit.form.localeRequired">Seleziona una lingua per la proposta.</message>
 	<message key="author.submit.nextSteps">Passi successivi</message>
+	<message key="submission.submit.cancelSubmission">Puoi completare questa proposta successivamente selezionado "Proposte attive" dalla home dell'autore</message>
 </locale>
